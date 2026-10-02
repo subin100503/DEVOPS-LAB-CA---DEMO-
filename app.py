@@ -30,3 +30,6 @@ if __name__ == "__main__":
     print("2 + 3 =", add(2, 3))
     print("Is 17 prime?", is_prime(17))
     print("First 10 Fibonacci numbers:", fibonacci(10))
+
+    def multiply(a, b):
+    return a * b
